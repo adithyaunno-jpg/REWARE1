@@ -1,0 +1,247 @@
+===RECORD_START===
+originalCollege=Apex Institute of Technology
+garmentTitle=Retro Colorblock Windbreaker Pullover
+reuseCount=2
+originalOwnerName=Aarav Sharma
+waterSavedLiters=5200.0
+co2SavedKg=4.2
+id=PASS-206-C35B
+listingId=LST-206
+originalOwnerId=STU-101
+creationDate=2026-10-18 09:30
+events_data=EVT-17197b9e~~CREATION~~2026-10-18 09:30~~STU-101~~Aarav Sharma~~Apex Institute of Technology~~Garment registered and verified on ReWear campus catalog~~Original owner: Aarav Sharma (Apex Institute of Technology)<<EVENT>>EVT-15a40359~~PURCHASE~~2026-11-11 09:06~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment acquired by amrutha kommisetty for $45.00~~Meetup Location: Campus Student Union / Main Desk. Transaction Ref: TXN-681BCA30
+===RECORD_END===
+===RECORD_START===
+originalCollege=srm university ap
+garmentTitle=Jeaa
+reuseCount=1
+originalOwnerName=amrutha kommisetty
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-FE8360A3
+listingId=LST-3EE7918A
+originalOwnerId=STU-B6860B35
+creationDate=2026-11-11 09:29
+events_data=EVT-269df288~~CREATION~~2026-11-11 09:29~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment registered and verified on ReWear campus catalog~~Original owner: amrutha kommisetty (srm university ap)
+===RECORD_END===
+===RECORD_START===
+originalCollege=National Engineering College
+garmentTitle=Floral Cotton Kurti
+reuseCount=1
+originalOwnerName=Rohan Gupta
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-213-EE83
+listingId=LST-213
+originalOwnerId=STU-103
+creationDate=2026-11-03 12:00
+events_data=EVT-fcb5e86e~~CREATION~~2026-11-03 12:00~~STU-103~~Rohan Gupta~~National Engineering College~~Garment registered and verified on ReWear campus catalog~~Original owner: Rohan Gupta (National Engineering College)
+===RECORD_END===
+===RECORD_START===
+originalCollege=Metro State University
+garmentTitle=Oversized Wool Blend Knit Cardigan
+reuseCount=2
+originalOwnerName=Priya Patel
+waterSavedLiters=5200.0
+co2SavedKg=4.2
+id=PASS-202-3209
+listingId=LST-202
+originalOwnerId=STU-102
+creationDate=2026-10-05 14:30
+events_data=EVT-548f396b~~CREATION~~2026-10-05 14:30~~STU-102~~Priya Patel~~Metro State University~~Garment registered and verified on ReWear campus catalog~~Original owner: Priya Patel (Metro State University)<<EVENT>>EVT-ae6fa0be~~PURCHASE~~2026-11-11 08:59~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment acquired by amrutha kommisetty for $42.00~~Meetup Location: Campus Student Union / Main Desk. Transaction Ref: TXN-B546FF2B
+===RECORD_END===
+===RECORD_START===
+originalCollege=City Science & Fashion Institute
+garmentTitle=Handloom Silk Cotton Kurta Shirt
+reuseCount=1
+originalOwnerName=Ananya Sen
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-210-7976
+listingId=LST-210
+originalOwnerId=STU-104
+creationDate=2026-09-25 11:00
+events_data=EVT-355e208d~~CREATION~~2026-09-25 11:00~~STU-104~~Ananya Sen~~City Science & Fashion Institute~~Garment registered and verified on ReWear campus catalog~~Original owner: Ananya Sen (City Science & Fashion Institute)
+===RECORD_END===
+===RECORD_START===
+originalCollege=National Engineering College
+garmentTitle=Oxford Cotton Button-Down Shirt
+reuseCount=2
+originalOwnerName=Rohan Gupta
+waterSavedLiters=5200.0
+co2SavedKg=4.2
+id=PASS-203-04A4
+listingId=LST-203
+originalOwnerId=STU-103
+creationDate=2026-10-08 11:20
+events_data=EVT-9face5bc~~CREATION~~2026-10-08 11:20~~STU-103~~Rohan Gupta~~National Engineering College~~Garment registered and verified on ReWear campus catalog~~Original owner: Rohan Gupta (National Engineering College)<<EVENT>>EVT-e09eaa39~~PURCHASE~~2026-11-11 08:59~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment acquired by amrutha kommisetty for $26.00~~Meetup Location: Campus Student Union / Main Desk. Transaction Ref: TXN-2509E71F
+===RECORD_END===
+===RECORD_START===
+originalCollege=City Science & Fashion Institute
+garmentTitle=Classic Denim Jacket
+reuseCount=1
+originalOwnerName=Ananya Sen
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-214-79B7
+listingId=LST-214
+originalOwnerId=STU-104
+creationDate=2026-11-04 13:00
+events_data=EVT-2df2a6b0~~CREATION~~2026-11-04 13:00~~STU-104~~Ananya Sen~~City Science & Fashion Institute~~Garment registered and verified on ReWear campus catalog~~Original owner: Ananya Sen (City Science & Fashion Institute)
+===RECORD_END===
+===RECORD_START===
+originalCollege=Metro State University
+garmentTitle=Minimalist Embroidered Campus Sweatshirt
+reuseCount=2
+originalOwnerName=Priya Patel
+waterSavedLiters=5200.0
+co2SavedKg=4.2
+id=PASS-207-9855
+listingId=LST-207
+originalOwnerId=STU-102
+creationDate=2026-10-22 13:10
+events_data=EVT-2d8cb6c5~~CREATION~~2026-10-22 13:10~~STU-102~~Priya Patel~~Metro State University~~Garment registered and verified on ReWear campus catalog~~Original owner: Priya Patel (Metro State University)<<EVENT>>EVT-6e7816fb~~PURCHASE~~2026-11-11 06:51~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment acquired by amrutha kommisetty for $28.00~~Meetup Location: Campus Student Union / Main Desk. Transaction Ref: TXN-F573CAF1
+===RECORD_END===
+===RECORD_START===
+originalCollege=National Engineering College
+garmentTitle=Classic Khaki Chino Trousers
+reuseCount=3
+originalOwnerName=Rohan Gupta
+waterSavedLiters=7700.0
+co2SavedKg=6.6
+id=PASS-208-20B7
+listingId=LST-208
+originalOwnerId=STU-103
+creationDate=2026-10-25 15:40
+events_data=EVT-1dfbd359~~CREATION~~2026-10-25 15:40~~STU-103~~Rohan Gupta~~National Engineering College~~Garment registered and verified on ReWear campus catalog~~Original owner: Rohan Gupta (National Engineering College)<<EVENT>>EVT-eed712ca~~PURCHASE~~2026-11-11 06:51~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment acquired by amrutha kommisetty for $22.00~~Meetup Location: Campus Student Union / Main Desk. Transaction Ref: TXN-FB3C4953<<EVENT>>EVT-ba0b9a34~~PURCHASE~~2026-11-11 18:55~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment acquired by amrutha kommisetty for ₹22.00~~Meetup Location: Campus Student Union / Main Desk. Transaction Ref: TXN-D192A74B
+===RECORD_END===
+===RECORD_START===
+originalCollege=Metro State University
+garmentTitle=Black Wide-Leg Cargo Pants
+reuseCount=1
+originalOwnerName=Priya Patel
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-212-B2F7
+listingId=LST-212
+originalOwnerId=STU-102
+creationDate=2026-11-02 11:00
+events_data=EVT-c2fbf17e~~CREATION~~2026-11-02 11:00~~STU-102~~Priya Patel~~Metro State University~~Garment registered and verified on ReWear campus catalog~~Original owner: Priya Patel (Metro State University)
+===RECORD_END===
+===RECORD_START===
+originalCollege=Apex Institute of Technology
+garmentTitle=Vintage Campus Denim Trucker Jacket
+reuseCount=2
+originalOwnerName=Aarav Sharma
+waterSavedLiters=5200.0
+co2SavedKg=4.2
+id=PASS-201-F47C
+listingId=LST-201
+originalOwnerId=STU-101
+creationDate=2026-10-01 10:15
+events_data=EVT-bef408fb~~CREATION~~2026-10-01 10:15~~STU-101~~Aarav Sharma~~Apex Institute of Technology~~Garment registered and verified on ReWear campus catalog~~Original owner: Aarav Sharma (Apex Institute of Technology)<<EVENT>>EVT-c79e2fda~~PURCHASE~~2026-11-10 12:42~~STU-102~~Priya Patel~~Metro State University~~Garment acquired by Priya Patel for $38.00~~Meetup Location: Student Union Main Entrance. Transaction Ref: TXN-65BABAF2
+===RECORD_END===
+===RECORD_START===
+originalCollege=srm university ap
+garmentTitle=Jean
+reuseCount=1
+originalOwnerName=amrutha kommisetty
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-99CE43A5
+listingId=LST-3E70D48C
+originalOwnerId=STU-B6860B35
+creationDate=2026-11-11 09:44
+events_data=EVT-6dd02217~~CREATION~~2026-11-11 09:44~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment registered and verified on ReWear campus catalog~~Original owner: amrutha kommisetty (srm university ap)
+===RECORD_END===
+===RECORD_START===
+originalCollege=City Science & Fashion Institute
+garmentTitle=Linen Midi Wrap Dress with Belt
+reuseCount=1
+originalOwnerName=Ananya Sen
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-204-F794
+listingId=LST-204
+originalOwnerId=STU-104
+creationDate=2026-10-10 16:45
+events_data=EVT-3150df50~~CREATION~~2026-10-10 16:45~~STU-104~~Ananya Sen~~City Science & Fashion Institute~~Garment registered and verified on ReWear campus catalog~~Original owner: Ananya Sen (City Science & Fashion Institute)
+===RECORD_END===
+===RECORD_START===
+originalCollege=Apex Institute of Technology
+garmentTitle=Vintage Corduroy Overshirt Jacket
+reuseCount=2
+originalOwnerName=Aarav Sharma
+waterSavedLiters=5200.0
+co2SavedKg=4.2
+id=PASS-209-4F85
+listingId=LST-209
+originalOwnerId=STU-101
+creationDate=2026-09-22 10:00
+events_data=EVT-279a5d6b~~CREATION~~2026-09-22 10:00~~STU-101~~Aarav Sharma~~Apex Institute of Technology~~Garment registered and verified on ReWear campus catalog~~Original owner: Aarav Sharma (Apex Institute of Technology)<<EVENT>>EVT-901-PURCHASE~~PURCHASE~~2026-09-28 16:30~~STU-102~~Priya Patel~~Metro State University~~Purchased by Priya Patel for $34.00 at Central Library~~Transaction Reference: TXN-901. Condition verified as Like New.
+===RECORD_END===
+===RECORD_START===
+originalCollege=srm university ap
+garmentTitle=Jean
+reuseCount=1
+originalOwnerName=amrutha kommisetty
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-6379A29E
+listingId=LST-485E5598
+originalOwnerId=STU-B6860B35
+creationDate=2026-11-11 10:33
+events_data=EVT-313d195e~~CREATION~~2026-11-11 10:33~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment registered and verified on ReWear campus catalog~~Original owner: amrutha kommisetty (srm university ap)
+===RECORD_END===
+===RECORD_START===
+originalCollege=Global Technological University
+garmentTitle=Casual Campus Hoodie
+reuseCount=1
+originalOwnerName=Vikram Rao
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-215-08F7
+listingId=LST-215
+originalOwnerId=STU-105
+creationDate=2026-11-05 14:00
+events_data=EVT-a3f97f90~~CREATION~~2026-11-05 14:00~~STU-105~~Vikram Rao~~Global Technological University~~Garment registered and verified on ReWear campus catalog~~Original owner: Vikram Rao (Global Technological University)
+===RECORD_END===
+===RECORD_START===
+originalCollege=srm university ap
+garmentTitle=Jean
+reuseCount=1
+originalOwnerName=amrutha kommisetty
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-29E94768
+listingId=LST-5F332213
+originalOwnerId=STU-B6860B35
+creationDate=2026-11-11 09:01
+events_data=EVT-90fd38b9~~CREATION~~2026-11-11 09:01~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment registered and verified on ReWear campus catalog~~Original owner: amrutha kommisetty (srm university ap)
+===RECORD_END===
+===RECORD_START===
+originalCollege=Apex Institute of Technology
+garmentTitle=Oversized Graphic T-Shirt
+reuseCount=1
+originalOwnerName=Aarav Sharma
+waterSavedLiters=2700.0
+co2SavedKg=1.8
+id=PASS-211-69CB
+listingId=LST-211
+originalOwnerId=STU-101
+creationDate=2026-11-01 10:00
+events_data=EVT-98474084~~CREATION~~2026-11-01 10:00~~STU-101~~Aarav Sharma~~Apex Institute of Technology~~Garment registered and verified on ReWear campus catalog~~Original owner: Aarav Sharma (Apex Institute of Technology)
+===RECORD_END===
+===RECORD_START===
+originalCollege=Global Technological University
+garmentTitle=Straight-Leg Relaxed Carpenter Denim
+reuseCount=2
+originalOwnerName=Vikram Rao
+waterSavedLiters=5200.0
+co2SavedKg=4.2
+id=PASS-205-52DA
+listingId=LST-205
+originalOwnerId=STU-105
+creationDate=2026-10-14 18:00
+events_data=EVT-86a5d83b~~CREATION~~2026-10-14 18:00~~STU-105~~Vikram Rao~~Global Technological University~~Garment registered and verified on ReWear campus catalog~~Original owner: Vikram Rao (Global Technological University)<<EVENT>>EVT-cde30c38~~PURCHASE~~2026-11-11 18:55~~STU-B6860B35~~amrutha kommisetty~~srm university ap~~Garment acquired by amrutha kommisetty for ₹35.00~~Meetup Location: Campus Student Union / Main Desk. Transaction Ref: TXN-878C0066
+===RECORD_END===

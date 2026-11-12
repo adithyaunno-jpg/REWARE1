@@ -1,0 +1,190 @@
+===RECORD_START===
+finalSalePrice=38.0
+originalPrice=38.0
+itemTitle=Vintage Campus Denim Trucker Jacket
+sellerCollege=Apex Institute of Technology
+sellerName=Aarav Sharma
+listingId=LST-201
+buyerId=STU-102
+buyerName=Priya Patel
+campusMeetupLocation=Student Union Main Entrance
+sellerId=STU-101
+buyerCollege=Metro State University
+itemPhoto=
+reviewed=false
+id=TXN-65BABAF2
+deliveryDate=
+deliveryStatus=PENDING
+timestamp=2026-11-10 12:42
+===RECORD_END===
+===RECORD_START===
+finalSalePrice=34.0
+originalPrice=34.0
+itemTitle=Vintage Corduroy Overshirt Jacket
+sellerCollege=Apex Institute of Technology
+sellerName=Aarav Sharma
+listingId=LST-209
+buyerId=STU-102
+buyerName=Priya Patel
+campusMeetupLocation=Central Library Main Desk
+sellerId=STU-101
+buyerCollege=Metro State University
+itemPhoto=
+reviewed=true
+id=TXN-901
+deliveryDate=
+deliveryStatus=PENDING
+timestamp=2026-09-28 16:30
+===RECORD_END===
+===RECORD_START===
+finalSalePrice=28.0
+originalPrice=28.0
+itemTitle=Minimalist Embroidered Campus Sweatshirt
+sellerCollege=Metro State University
+sellerName=Priya Patel
+listingId=LST-207
+buyerId=STU-B6860B35
+buyerName=amrutha kommisetty
+campusMeetupLocation=Campus Student Union / Main Desk
+sellerId=STU-102
+buyerCollege=srm university ap
+itemPhoto=
+reviewed=false
+id=TXN-F573CAF1
+deliveryDate=
+deliveryStatus=CANCELLED
+timestamp=2026-11-11 06:51
+===RECORD_END===
+===RECORD_START===
+finalSalePrice=35.0
+originalPrice=35.0
+itemTitle=Straight-Leg Relaxed Carpenter Denim
+sellerCollege=Global Technological University
+sellerName=Vikram Rao
+listingId=LST-205
+buyerId=STU-B6860B35
+buyerName=amrutha kommisetty
+campusMeetupLocation=Campus Student Union / Main Desk
+sellerId=STU-105
+buyerCollege=srm university ap
+itemPhoto=
+reviewed=false
+id=TXN-878C0066
+deliveryDate=
+deliveryStatus=CANCELLED
+timestamp=2026-11-11 18:55
+===RECORD_END===
+===RECORD_START===
+finalSalePrice=42.0
+originalPrice=42.0
+itemTitle=Oversized Wool Blend Knit Cardigan
+sellerCollege=Metro State University
+sellerName=Priya Patel
+listingId=LST-202
+buyerId=STU-B6860B35
+buyerName=amrutha kommisetty
+campusMeetupLocation=Campus Student Union / Main Desk
+sellerId=STU-102
+buyerCollege=srm university ap
+itemPhoto=
+reviewed=false
+id=TXN-B546FF2B
+deliveryDate=
+deliveryStatus=CANCELLED
+timestamp=2026-11-11 08:59
+===RECORD_END===
+===RECORD_START===
+finalSalePrice=26.0
+originalPrice=26.0
+itemTitle=Oxford Cotton Button-Down Shirt
+sellerCollege=National Engineering College
+sellerName=Rohan Gupta
+listingId=LST-203
+buyerId=STU-B6860B35
+buyerName=amrutha kommisetty
+campusMeetupLocation=Campus Student Union / Main Desk
+sellerId=STU-103
+buyerCollege=srm university ap
+itemPhoto=
+reviewed=false
+id=TXN-2509E71F
+deliveryDate=
+deliveryStatus=CANCELLED
+timestamp=2026-11-11 08:59
+===RECORD_END===
+===RECORD_START===
+finalSalePrice=22.0
+originalPrice=22.0
+itemTitle=Classic Khaki Chino Trousers
+sellerCollege=National Engineering College
+sellerName=Rohan Gupta
+listingId=LST-208
+buyerId=STU-B6860B35
+buyerName=amrutha kommisetty
+campusMeetupLocation=Campus Student Union / Main Desk
+sellerId=STU-103
+buyerCollege=srm university ap
+itemPhoto=
+reviewed=false
+id=TXN-D192A74B
+deliveryDate=
+deliveryStatus=CANCELLED
+timestamp=2026-11-11 18:55
+===RECORD_END===
+===RECORD_START===
+finalSalePrice=45.0
+originalPrice=45.0
+itemTitle=Retro Colorblock Windbreaker Pullover
+sellerCollege=Apex Institute of Technology
+sellerName=Aarav Sharma
+listingId=LST-206
+buyerId=STU-B6860B35
+buyerName=amrutha kommisetty
+campusMeetupLocation=Campus Student Union / Main Desk
+sellerId=STU-101
+buyerCollege=srm university ap
+itemPhoto=
+reviewed=false
+id=TXN-681BCA30
+deliveryDate=
+deliveryStatus=CANCELLED
+timestamp=2026-11-11 09:06
+===RECORD_END===
+===RECORD_START===
+finalSalePrice=30.0
+originalPrice=30.0
+itemTitle=Handloom Silk Cotton Kurta Shirt
+sellerCollege=City Science & Fashion Institute
+sellerName=Ananya Sen
+listingId=LST-210
+buyerId=STU-103
+buyerName=Rohan Gupta
+campusMeetupLocation=Campus Student Activity Center
+sellerId=STU-104
+buyerCollege=National Engineering College
+itemPhoto=
+reviewed=true
+id=TXN-902
+deliveryDate=
+deliveryStatus=PENDING
+timestamp=2026-10-02 14:00
+===RECORD_END===
+===RECORD_START===
+finalSalePrice=22.0
+originalPrice=22.0
+itemTitle=Classic Khaki Chino Trousers
+sellerCollege=National Engineering College
+sellerName=Rohan Gupta
+listingId=LST-208
+buyerId=STU-B6860B35
+buyerName=amrutha kommisetty
+campusMeetupLocation=Campus Student Union / Main Desk
+sellerId=STU-103
+buyerCollege=srm university ap
+itemPhoto=
+reviewed=false
+id=TXN-FB3C4953
+deliveryDate=
+deliveryStatus=CANCELLED
+timestamp=2026-11-11 06:51
+===RECORD_END===

@@ -1,0 +1,12 @@
+===RECORD_START===
+createdAt=2026-10-27 15:30
+itemPhotos=
+listingIds=LST-206;;;LST-202;;;LST-203
+approvals=STU-103:PENDING,STU-102:PENDING,STU-101:ACCEPTED
+description=Triangular Exchange Circle: Aarav gives Windbreaker to Priya -> Priya gives Cardigan to Rohan -> Rohan gives Oxford Shirt to Aarav
+participantIds=STU-101;;;STU-102;;;STU-103
+participantNames=Aarav Sharma;;;Priya Patel;;;Rohan Gupta
+itemTitles=Retro Colorblock Windbreaker Pullover;;;Oversized Wool Blend Knit Cardigan;;;Oxford Cotton Button-Down Shirt
+id=CHN-501
+status=PENDING
+===RECORD_END===

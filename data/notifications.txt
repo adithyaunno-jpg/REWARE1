@@ -1,0 +1,190 @@
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-a329da01
+title=Your Item Has Been Purchased!
+message=Great news! Priya Patel (Metro State University) purchased your 'Vintage Campus Denim Trucker Jacket'. Handover location: Student Union Main Entrance.
+type=SALE
+userId=STU-101
+timestamp=2026-11-10 12:42
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-913be131
+title=Purchase Confirmed!
+message=You purchased 'Vintage Campus Denim Trucker Jacket' from Aarav Sharma. Meetup location: Student Union Main Entrance. Ref: TXN-65BABAF2.
+type=PURCHASE
+userId=STU-102
+timestamp=2026-11-10 12:42
+===RECORD_END===
+===RECORD_START===
+read=true
+link=/profile?tab=sold
+id=NOTIF-fbcd588b
+title=Purchase Confirmed!
+message=You purchased 'Minimalist Embroidered Campus Sweatshirt' from Priya Patel. Meetup location: Campus Student Union / Main Desk. Ref: TXN-F573CAF1.
+type=PURCHASE
+userId=STU-B6860B35
+timestamp=2026-11-11 06:51
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-03
+title=Purchase Successful
+message=Your order TXN-901 has been confirmed. Meet Aarav Sharma at Central Library Desk.
+type=PURCHASE
+userId=STU-102
+timestamp=2026-09-28 16:35
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-22cf0b99
+title=Your Item Has Been Purchased!
+message=Great news! amrutha kommisetty (srm university ap) purchased your 'Minimalist Embroidered Campus Sweatshirt'. Handover location: Campus Student Union / Main Desk.
+type=SALE
+userId=STU-102
+timestamp=2026-11-11 06:51
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-02c92548
+title=Your Item Has Been Purchased!
+message=Great news! amrutha kommisetty (srm university ap) purchased your 'Retro Colorblock Windbreaker Pullover'. Handover location: Campus Student Union / Main Desk.
+type=SALE
+userId=STU-101
+timestamp=2026-11-11 09:06
+===RECORD_END===
+===RECORD_START===
+read=true
+link=/profile?tab=sold
+id=NOTIF-6fbec161
+title=Purchase Confirmed!
+message=You purchased 'Oxford Cotton Button-Down Shirt' from Rohan Gupta. Meetup location: Campus Student Union / Main Desk. Ref: TXN-2509E71F.
+type=PURCHASE
+userId=STU-B6860B35
+timestamp=2026-11-11 08:59
+===RECORD_END===
+===RECORD_START===
+read=true
+link=/profile?tab=sold
+id=NOTIF-95fe770c
+title=Purchase Confirmed!
+message=You purchased 'Classic Khaki Chino Trousers' from Rohan Gupta. Meetup location: Campus Student Union / Main Desk. Ref: TXN-FB3C4953.
+type=PURCHASE
+userId=STU-B6860B35
+timestamp=2026-11-11 06:51
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-53f64125
+title=Your Item Has Been Purchased!
+message=Great news! amrutha kommisetty (srm university ap) purchased your 'Oversized Wool Blend Knit Cardigan'. Handover location: Campus Student Union / Main Desk.
+type=SALE
+userId=STU-102
+timestamp=2026-11-11 08:59
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-4360c671
+title=Your Item Has Been Purchased!
+message=Great news! amrutha kommisetty (srm university ap) purchased your 'Classic Khaki Chino Trousers'. Handover location: Campus Student Union / Main Desk.
+type=SALE
+userId=STU-103
+timestamp=2026-11-11 06:51
+===RECORD_END===
+===RECORD_START===
+read=true
+link=/profile?tab=sold
+id=NOTIF-9ae31d37
+title=Purchase Confirmed!
+message=You purchased 'Straight-Leg Relaxed Carpenter Denim' from Vikram Rao. Meetup location: Campus Student Union / Main Desk. Ref: TXN-878C0066.
+type=PURCHASE
+userId=STU-B6860B35
+timestamp=2026-11-11 18:55
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-b661ac68
+title=Your Item Has Been Purchased!
+message=Great news! amrutha kommisetty (srm university ap) purchased your 'Oxford Cotton Button-Down Shirt'. Handover location: Campus Student Union / Main Desk.
+type=SALE
+userId=STU-103
+timestamp=2026-11-11 08:59
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-1d7304bc
+title=Your Item Has Been Purchased!
+message=Great news! amrutha kommisetty (srm university ap) purchased your 'Straight-Leg Relaxed Carpenter Denim'. Handover location: Campus Student Union / Main Desk.
+type=SALE
+userId=STU-105
+timestamp=2026-11-11 18:55
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/swapmatch
+id=NOTIF-01
+title=New SwapMatch Proposal Received
+message=Priya Patel proposed to swap her 'Oversized Wool Blend Knit Cardigan' with your 'Vintage Denim Trucker Jacket' (92% Match)
+type=SWAP_REQUEST
+userId=STU-101
+timestamp=2026-10-26 12:05
+===RECORD_END===
+===RECORD_START===
+read=true
+link=/profile?tab=sold
+id=NOTIF-39b81be8
+title=Purchase Confirmed!
+message=You purchased 'Retro Colorblock Windbreaker Pullover' from Aarav Sharma. Meetup location: Campus Student Union / Main Desk. Ref: TXN-681BCA30.
+type=PURCHASE
+userId=STU-B6860B35
+timestamp=2026-11-11 09:06
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile
+id=NOTIF-02
+title=New Verified Review Received
+message=Priya Patel left a 5-star review for 'Vintage Corduroy Overshirt Jacket'!
+type=REVIEW
+userId=STU-101
+timestamp=2026-09-29 11:20
+===RECORD_END===
+===RECORD_START===
+read=true
+link=/profile?tab=sold
+id=NOTIF-e73fd35c
+title=Purchase Confirmed!
+message=You purchased 'Oversized Wool Blend Knit Cardigan' from Priya Patel. Meetup location: Campus Student Union / Main Desk. Ref: TXN-B546FF2B.
+type=PURCHASE
+userId=STU-B6860B35
+timestamp=2026-11-11 08:59
+===RECORD_END===
+===RECORD_START===
+read=false
+link=/profile?tab=sold
+id=NOTIF-e80c595e
+title=Your Item Has Been Purchased!
+message=Great news! amrutha kommisetty (srm university ap) purchased your 'Classic Khaki Chino Trousers'. Handover location: Campus Student Union / Main Desk.
+type=SALE
+userId=STU-103
+timestamp=2026-11-11 18:55
+===RECORD_END===
+===RECORD_START===
+read=true
+link=/profile?tab=sold
+id=NOTIF-892e7f86
+title=Purchase Confirmed!
+message=You purchased 'Classic Khaki Chino Trousers' from Rohan Gupta. Meetup location: Campus Student Union / Main Desk. Ref: TXN-D192A74B.
+type=PURCHASE
+userId=STU-B6860B35
+timestamp=2026-11-11 18:55
+===RECORD_END===

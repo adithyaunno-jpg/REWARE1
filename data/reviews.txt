@@ -1,0 +1,30 @@
+===RECORD_START===
+reviewerId=STU-102
+itemTitle=Vintage Corduroy Overshirt Jacket
+sellerName=Aarav Sharma
+rating=5
+listingId=LST-209
+transactionId=TXN-901
+reviewerName=Priya Patel
+sellerId=STU-101
+verifiedPurchase=true
+reviewerCollege=Metro State University
+comment=Aarav handed the jacket over at the campus library right on time. The corduroy is in immaculate condition!
+id=REV-801
+timestamp=2026-09-29 11:15
+===RECORD_END===
+===RECORD_START===
+reviewerId=STU-103
+itemTitle=Handloom Silk Cotton Kurta Shirt
+sellerName=Ananya Sen
+rating=5
+listingId=LST-210
+transactionId=TXN-902
+reviewerName=Rohan Gupta
+sellerId=STU-104
+verifiedPurchase=true
+reviewerCollege=National Engineering College
+comment=Super smooth trade! Ananya provided the original tags and care bag. ReWear made sustainable fashion so easy.
+id=REV-802
+timestamp=2026-10-03 09:30
+===RECORD_END===

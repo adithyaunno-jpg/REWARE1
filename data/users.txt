@@ -1,0 +1,107 @@
+===RECORD_START===
+salt=EDPZ/JO8fpyGmjgmjP+DWA==
+role=STUDENT
+fullName=Vikram Rao
+active=true
+biography=Tech student & campus photographer. Keeping campus style circular and waste-free.
+ratingCount=3
+passwordHash=pEAUVV2QzALj9Y6k8i+ouO/pWraOCgNuUfsrasVn5+A=
+preferredSwapCategory=Pants & Jeans
+profilePhotoUrl=
+createdAt=2026-09-20 13:00
+collegeName=Global Technological University
+id=STU-105
+email=vikram@campus.edu
+ratingAverage=4.7
+===RECORD_END===
+===RECORD_START===
+salt=oE4XOVtAPoVP4nABtYlqjA==
+role=STUDENT
+fullName=Ananya Sen
+active=true
+biography=Fashion styling researcher. All listings are freshly cared for and 100% authentic.
+ratingCount=8
+passwordHash=LnKWfCGV/WSnPLFycu2y5RPtsa45t1krwIHxqCREiE4=
+preferredSwapCategory=Dresses & Skirts
+profilePhotoUrl=
+createdAt=2026-09-15 16:20
+collegeName=City Science & Fashion Institute
+id=STU-104
+email=ananya@campus.edu
+ratingAverage=5.0
+===RECORD_END===
+===RECORD_START===
+salt=uKNUS77NGaRXJhR2qO3U3A==
+role=STUDENT
+fullName=Rohan Gupta
+active=true
+biography=Mechanical engineering junior. Upcycling casual wear and trading varsity jackets.
+ratingCount=4
+passwordHash=KDHI1ecQBNmhD1Ba/9hLnbAm/Gdw8ton1x3nUf6pgUE=
+preferredSwapCategory=Shirts & Tops
+profilePhotoUrl=
+createdAt=2026-09-12 09:45
+collegeName=National Engineering College
+id=STU-103
+email=rohan@campus.edu
+ratingAverage=4.8
+===RECORD_END===
+===RECORD_START===
+salt=q+Iwr7rMCRRbHYlM51Nh2Q==
+role=STUDENT
+fullName=Priya Patel
+active=true
+biography=Design & Architecture sophomore. Rotating my campus wardrobe and loving vintage oversized layers.
+ratingCount=5
+passwordHash=oSqk5HqtDkPmvicMs5OgKHeJ8oIhkPu/jwD3X9HP0vc=
+preferredSwapCategory=Hoodies & Sweaters
+profilePhotoUrl=
+createdAt=2026-09-08 14:15
+collegeName=Metro State University
+id=STU-102
+email=priya@campus.edu
+ratingAverage=5.0
+===RECORD_END===
+===RECORD_START===
+salt=TAvYxnMjYneS42h+Dx1YbQ==
+role=STUDENT
+fullName=amrutha kommisetty
+active=true
+biography=
+ratingCount=0
+passwordHash=JsegtN12E0cYPbFVk1LYqkxC3+AjJEA8yfYlvvMdIMY=
+preferredSwapCategory=All
+profilePhotoUrl=
+createdAt=2026-11-10 14:57
+collegeName=srm university ap
+id=STU-B6860B35
+email=amruthakommisetty@gmail.com
+ratingAverage=5.0
+===RECORD_END===
+===RECORD_START===
+salt=HxKmnZNxAB2LlYYpB0ZMuQ==
+role=STUDENT
+fullName=Aarav Sharma
+active=true
+biography=Final-year BTech CSE student. Passionate about sustainable campus streetwear and cycling.
+ratingCount=7
+passwordHash=7x806FnztNyzesaYFU4KegJKuczHhDZnrjf48OwLWtg=
+preferredSwapCategory=Jackets & Coats
+profilePhotoUrl=
+createdAt=2026-09-05 11:30
+collegeName=Apex Institute of Technology
+id=STU-101
+email=aarav@campus.edu
+ratingAverage=4.9
+===RECORD_END===
+===RECORD_START===
+createdAt=2026-09-01 10:00
+salt=lmrW7dJexTYSRI/WG6DjGg==
+role=ADMIN
+fullName=Campus Sustainability Board
+active=true
+id=ADM-100
+department=Office of Campus Sustainability & Student Affairs
+email=admin@rewear.campus
+passwordHash=mR+cHFKUEZRmuLoWnkFD5iJZGbZ714CbCI6An0PK/KA=
+===RECORD_END===

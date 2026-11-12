@@ -1,0 +1,336 @@
+===RECORD_START===
+photoUrls=
+sellerCollege=srm university ap
+sellerName=amrutha kommisetty
+item_size=M
+item_brand=Zara
+item_category=Jackets & Coats
+createdAt=2026-11-11 10:33
+sellerId=STU-B6860B35
+item_color=Black
+price=24.0
+reported=false
+item_condition=Gently Used
+id=LST-485E5598
+viewCount=3
+item_title=Jean
+item_description=nice fit
+item_passportId=PASS-6379A29E
+targetSwapCategory=Any
+status=SOLD
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-210.jpg
+sellerCollege=City Science & Fashion Institute
+sellerName=Ananya Sen
+item_size=M
+item_brand=FabIndia
+item_category=Traditional Wear
+createdAt=2026-09-25 11:00
+sellerId=STU-104
+item_color=Deep Navy
+price=300.0
+reported=false
+item_condition=Brand New with Tags
+id=LST-210
+viewCount=0
+item_title=Handloom Silk Cotton Kurta Shirt
+item_description=Traditional handloom breathable navy blue tunic shirt with fine thread embroidery around collar. Ideal for festival celebrations.
+item_passportId=PASS-210-7976
+targetSwapCategory=Any
+status=SOLD
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-211.jpg
+sellerCollege=Apex Institute of Technology
+sellerName=Aarav Sharma
+item_size=L
+item_brand=Campus Originals
+item_category=Shirts & Tops
+createdAt=2026-11-01 10:00
+sellerId=STU-101
+item_color=White
+price=180.0
+reported=false
+item_condition=Like New
+id=LST-211
+viewCount=0
+item_title=Oversized Graphic T-Shirt
+item_description=Comfortable cotton graphic tee for everyday campus wear.
+item_passportId=PASS-211-69CB
+targetSwapCategory=Any
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-201.jpg
+sellerCollege=Apex Institute of Technology
+sellerName=Aarav Sharma
+item_size=L
+item_brand=Levi's Vintage
+item_category=Jackets & Coats
+createdAt=2026-10-01 10:15
+sellerId=STU-101
+item_color=Blue
+price=380.0
+reported=false
+item_condition=Gently Used
+id=LST-201
+viewCount=1
+item_title=Vintage Campus Denim Trucker Jacket
+item_description=Classic heavy-wash blue denim trucker jacket with brass buttons. Perfect outer layer for campus breezy evenings. Gently worn, no tears or loose seams.
+item_passportId=PASS-201-F47C
+targetSwapCategory=Hoodies & Sweaters
+status=SOLD
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-212.jpg
+sellerCollege=Metro State University
+sellerName=Priya Patel
+item_size=M
+item_brand=Urban Style
+item_category=Pants & Jeans
+createdAt=2026-11-02 11:00
+sellerId=STU-102
+item_color=Black
+price=550.0
+reported=false
+item_condition=Gently Used
+id=LST-212
+viewCount=0
+item_title=Black Wide-Leg Cargo Pants
+item_description=Relaxed-fit cargo pants with multiple utility pockets.
+item_passportId=PASS-212-B2F7
+targetSwapCategory=Any
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-202.jpg
+sellerCollege=Metro State University
+sellerName=Priya Patel
+item_size=M
+item_brand=COS Eco
+item_category=Hoodies & Sweaters
+createdAt=2026-10-05 14:30
+sellerId=STU-102
+item_color=Oatmeal Beige
+price=420.0
+reported=false
+item_condition=Like New
+id=LST-202
+viewCount=2
+item_title=Oversized Wool Blend Knit Cardigan
+item_description=Warm oatmeal ribbed knit sweater with tortoiseshell buttons. High quality natural wool blend, freshly dry cleaned. Minimalist Scandinavian campus vibe.
+item_passportId=PASS-202-3209
+targetSwapCategory=Jackets & Coats
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-213.jpg
+sellerCollege=National Engineering College
+sellerName=Rohan Gupta
+item_size=M
+item_brand=FabIndia
+item_category=Traditional Wear
+createdAt=2026-11-03 12:00
+sellerId=STU-103
+item_color=Pink
+price=320.0
+reported=false
+item_condition=Like New
+id=LST-213
+viewCount=0
+item_title=Floral Cotton Kurti
+item_description=Lightweight floral cotton kurti suitable for college and casual outings.
+item_passportId=PASS-213-EE83
+targetSwapCategory=Any
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-203.jpg
+sellerCollege=National Engineering College
+sellerName=Rohan Gupta
+item_size=M
+item_brand=Ralph Lauren
+item_category=Shirts & Tops
+createdAt=2026-10-08 11:20
+sellerId=STU-103
+item_color=Sky Blue
+price=260.0
+reported=false
+item_condition=Like New
+id=LST-203
+viewCount=0
+item_title=Oxford Cotton Button-Down Shirt
+item_description=Crisp sky blue 100% organic cotton Oxford cloth button-down. Great for project presentations, conferences, and formal viva exams.
+item_passportId=PASS-203-04A4
+targetSwapCategory=Pants & Jeans
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-214.jpg
+sellerCollege=City Science & Fashion Institute
+sellerName=Ananya Sen
+item_size=L
+item_brand=Denim Co
+item_category=Jackets & Coats
+createdAt=2026-11-04 13:00
+sellerId=STU-104
+item_color=Blue
+price=650.0
+reported=false
+item_condition=Gently Used
+id=LST-214
+viewCount=0
+item_title=Classic Denim Jacket
+item_description=Blue denim jacket with front buttons and two chest pockets.
+item_passportId=PASS-214-79B7
+targetSwapCategory=Any
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-204.jpg
+sellerCollege=City Science & Fashion Institute
+sellerName=Ananya Sen
+item_size=S
+item_brand=Reformation
+item_category=Dresses & Skirts
+createdAt=2026-10-10 16:45
+sellerId=STU-104
+item_color=Sage Green
+price=490.0
+reported=false
+item_condition=Brand New with Tags
+id=LST-204
+viewCount=0
+item_title=Linen Midi Wrap Dress with Belt
+item_description=Pure natural linen breathable wrap dress in olive sage green. Features side pockets and tie waist belt. Worn once for university induction ceremony.
+item_passportId=PASS-204-F794
+targetSwapCategory=Traditional Wear
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-215.jpg
+sellerCollege=Global Technological University
+sellerName=Vikram Rao
+item_size=XL
+item_brand=Campus Wear
+item_category=Hoodies & Sweaters
+createdAt=2026-11-05 14:00
+sellerId=STU-105
+item_color=Grey
+price=420.0
+reported=false
+item_condition=Like New
+id=LST-215
+viewCount=0
+item_title=Casual Campus Hoodie
+item_description=Soft cotton-blend hoodie perfect for everyday campus use.
+item_passportId=PASS-215-08F7
+targetSwapCategory=Any
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-205.jpg
+sellerCollege=Global Technological University
+sellerName=Vikram Rao
+item_size=32
+item_brand=Carhartt WIP
+item_category=Pants & Jeans
+createdAt=2026-10-14 18:00
+sellerId=STU-105
+item_color=Indigo Navy
+price=350.0
+reported=false
+item_condition=Gently Used
+id=LST-205
+viewCount=0
+item_title=Straight-Leg Relaxed Carpenter Denim
+item_description=Durable 14oz raw denim carpenter trousers with utility pockets and hammer loop. Clean hem, no stains or scuffs.
+item_passportId=PASS-205-52DA
+targetSwapCategory=Shoes
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-206.jpg
+sellerCollege=Apex Institute of Technology
+sellerName=Aarav Sharma
+item_size=XL
+item_brand=Patagonia Retro
+item_category=Jackets & Coats
+createdAt=2026-10-18 09:30
+sellerId=STU-101
+item_color=Teal / Ochre
+price=450.0
+reported=false
+item_condition=Like New
+id=LST-206
+viewCount=0
+item_title=Retro Colorblock Windbreaker Pullover
+item_description=Water-resistant nylon pullover windbreaker with zippered pouch pocket and hood. Lightweight and packs into its own pocket for campus commutes.
+item_passportId=PASS-206-C35B
+targetSwapCategory=Hoodies & Sweaters
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-207.jpg
+sellerCollege=Metro State University
+sellerName=Priya Patel
+item_size=M
+item_brand=Champion Eco
+item_category=Hoodies & Sweaters
+createdAt=2026-10-22 13:10
+sellerId=STU-102
+item_color=Off-White
+price=280.0
+reported=false
+item_condition=Gently Used
+id=LST-207
+viewCount=2
+item_title=Minimalist Embroidered Campus Sweatshirt
+item_description=Heavyweight organic cotton fleece crewneck sweatshirt in warm cream. Brushed interior for maximum comfort during study sessions.
+item_passportId=PASS-207-9855
+targetSwapCategory=Shirts & Tops
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-208.jpg
+sellerCollege=National Engineering College
+sellerName=Rohan Gupta
+item_size=30
+item_brand=Dockers
+item_category=Pants & Jeans
+createdAt=2026-10-25 15:40
+sellerId=STU-103
+item_color=Tan Khaki
+price=220.0
+reported=false
+item_condition=Gently Used
+id=LST-208
+viewCount=1
+item_title=Classic Khaki Chino Trousers
+item_description=Slim-straight cotton twill chinos in versatile British tan. Perfect everyday campus pants that match with sneakers and blazers alike.
+item_passportId=PASS-208-20B7
+targetSwapCategory=Shirts & Tops
+status=AVAILABLE
+===RECORD_END===
+===RECORD_START===
+photoUrls=/uploads/listings/LST-209.jpg
+sellerCollege=Apex Institute of Technology
+sellerName=Aarav Sharma
+item_size=L
+item_brand=Corduroy Co
+item_category=Jackets & Coats
+createdAt=2026-09-22 10:00
+sellerId=STU-101
+item_color=Cognac Brown
+price=340.0
+reported=false
+item_condition=Like New
+id=LST-209
+viewCount=0
+item_title=Vintage Corduroy Overshirt Jacket
+item_description=Rich cognac brown wide-wale corduroy overshirt with twin chest pockets. Heavy cotton fabric, warm and stylish.
+item_passportId=PASS-209-4F85
+targetSwapCategory=Any
+status=SOLD
+===RECORD_END===

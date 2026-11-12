@@ -1,0 +1,7 @@
+===RECORD_START===
+college=SRM ap university
+pincode=521456
+address=srmuniversity ap
+mobile=9392254674
+userId=STU-B6860B35
+===RECORD_END===

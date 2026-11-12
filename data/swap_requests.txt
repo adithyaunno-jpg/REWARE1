@@ -1,0 +1,20 @@
+===RECORD_START===
+recipientItemPhoto=
+requesterId=STU-102
+requesterCollege=Metro State University
+compatibilityScore=92
+requesterItemPhoto=
+requesterItemTitle=Oversized Wool Blend Knit Cardigan
+message=Hi Aarav! Your denim jacket matches my oversized cardigan nicely in value and seasonal style. Would love to swap!
+recipientItemTitle=Vintage Campus Denim Trucker Jacket
+matchReason=Both garments share premium outer-layer utility, equivalent price tiers ($38-$42), and like-new care standards.
+requesterListingId=LST-202
+requesterName=Priya Patel
+recipientListingId=LST-201
+recipientId=STU-101
+recipientName=Aarav Sharma
+recipientCollege=Apex Institute of Technology
+id=SWP-701
+status=PENDING
+timestamp=2026-10-26 12:00
+===RECORD_END===
